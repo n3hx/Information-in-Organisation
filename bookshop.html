@@ -1,0 +1,372 @@
+<!-- Declaration of the HTML version and language -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Title of the webpage -->
+    <title>The Lettered Lodge Bookshop</title>
+    <!-- Internal CSS styles for the timetable -->
+    <style>
+        /* Styles for the timetable */
+        /* Set styles for the entire table */
+        table {
+            /* Collapse borders and make the table full-width */
+            border-collapse: collapse;
+            width: 100%;
+            /* Set font size and text alignment */
+            font-size: 16px;
+            text-align: center;
+        }
+
+        /* Set styles for table header cells and data cells */
+        th, td {
+            /* Add borders and padding to cells */
+            border: 1px solid #ddd;
+            padding: 10px;
+        }
+
+        /* Set background color for table header cells */
+        th {
+            background-color: #f2f2f2;
+        }
+
+        /* Add color to table rows on hover */
+        tr:hover {
+            background-color: rgba(29, 201, 236, 0.573);
+        }
+    </style>   
+    <!-- External CSS stylesheet for the main design --> 
+    <link rel="stylesheet" href="./bookshop.css">
+    
+    <!-- Font Families -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
+        
+</head>
+
+<body class="bookshop" id="home">
+    <!-- Banner Section -->
+    <div class="bookshop-banner">
+        <!-- Navbar Section -->
+        <!-- Navigation bar at the top -->
+        <div class="bookshop-top bookshop-sticky bookshop-background">
+            <div class="bookshop-row bookshop-padding bookshop-light-gray">
+                 <!-- Bookshop.xml link with icon -->
+                <div class="bookshop-col">
+                    <a href="./bookshop.xml" class="bookshop-button bookshop-block"> 
+                        <i class="fas fa-book"></i>
+                    </a>
+                </div>
+                <!-- Links to different sections of the website -->
+                <div class="bookshop-col">
+                    <!-- Home link -->
+                    <a href="#home" class="bookshop-button bookshop-b bookshop-block">Home</a>
+                </div>
+                <div class="bookshop-col">
+                    <!-- Books link -->
+                    <a href="#book" class="bookshop-button bookshop-b bookshop-block">Book</a>
+                </div>
+                <div class="bookshop-col">
+                    <!-- Events link -->
+                    <a href="#event-section" class="bookshop-button bookshop-b bookshop-block">Events</a>
+                </div>
+                <div class="bookshop-col">
+                    <!-- About Us link -->
+                    <a href="#information" class="bookshop-button bookshop-block"> About Us</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header with image -->
+    <!-- Header section with introductory text and book genres -->
+    <header class="bookshop-header bookshop-display-container">
+        <div class="bookshop-center" style="text-align: center;">
+            <!-- Title of the bookshop -->
+            <span class="bookshop-text-white bookshop-title" style="font-size: 60px; text-transform: capitalize; color: white;">The Lettered Lodge</span>
+            <!-- Introduction to the bookshop -->
+            <p style="color: white;"><b>The Lettered Lodge Bookshop is a small independent bookstore located in the heart of the city.</b></p> 
+            <p style="color: white;"><b>Our aim is to provide our customers with a wide variety of books on different topics.</b></p>
+            <!-- List of book genres -->
+            <p style="color: white;"><b>Here are the different genres that we offer:</b></p>
+            <p style="color: white;"><b>Fiction</b></p>
+            <p style="color: white;"><b>Mystery/Thriller</b></p>
+            <p style="color: white;"><b>Romance</b></p>
+            <p style="color: white;"><b>Science Fiction/Fantasy</b></p>
+            <p style="color: white;"><b>Biography/Autobiography</b></p>
+            <p style="color: white;"><b>History</b></p>
+            <p style="color: white;"><b>Self-Help</b></p>
+            <p style="color: white;"><b>Children's</b></p>
+            <p style="color: white;"><b>Maternity/Babies</b></p>
+            <p style="color: white;"><b>Poem</b></p>
+            <p style="color: white;"><b>Outdoor</b></p>
+        </div>
+    </header> 
+
+    <div class="bookshop-banner" id="book"></div>
+
+    <!-- Section with images of new books coming soon -->
+    <!-- Section title -->
+    <h2 class="bookshop-title">NEW BOOK COMING SOON </h2>   
+    <div class="bookshop-row">
+        <!-- Images of new books -->
+        <div class="bookshop-col">
+            <div class="bookshop-category">
+                <img src="https://www.sourcebooks.com/uploads/1/1/5/5/115507011/blake-girlinhisshadow-3d_orig.png" alt="Book 1" width="200" height="300">
+            </div>
+        </div>
+        <div class="bookshop-col">
+            <div class="bookshop-category">
+                <img src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/law-of-attraction-book-cover-template-design-0c17ed6a9092a4034447d6e012aaa655_screen.jpg?ts=1636980591" alt="Book 2" width="200" height="300">
+            </div>
+        </div>
+        <div class="bookshop-col">
+            <div class="bookshop-category">
+                <img src="https://www.baileydesignsbooks.com/wp-content/uploads/2020/11/Barney.jpg" alt="Book 3" width="200" height="300">
+            </div>
+        </div>
+        <div class="bookshop-col">
+            <div class="bookshop-category">
+                <img src="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781398511163/in-the-blink-of-an-eye-9781398511163_hr.jpg" alt="Book 4" width="200" height="300">
+            </div>
+        </div>
+        <div class="bookshop-col">
+            <div class="bookshop-category">
+                <img src="https://imaginationsoup.net/wp-content/uploads/2021/10/Magic-Tree-House-The-Graphic-NOvel-Dinosaurs-Before-Dark-669x1024.jpeg" alt="Book 5" width="200" height="300">
+            </div>
+        </div>
+    </div>
+    
+    <!-- Book available Section -->    
+    <h2 class="bookshop-title bookshop-padding">BOOK AVAILABLE IN STORE</h2>
+    <!-- Section with best sellers and top-rated books -->    
+    <div class="bookshop-row bookshop-padding-large">
+            <!-- Column for Best Sellers -->
+            <div class="bookshop-col bookshop-margin-bottom">
+                <!-- Best Sellers list -->
+                <div class="bookshop-black bookshop-details">
+                    <h3>Best Sellers</h3>
+                    <ul>
+                        <li>The Invisible Life of Addie LaRue by V.E. Schwab </li>
+                        <li>Midnight Sun by Stephenie Meyer </li>
+                        <li>A Promised Land by Barack Obama </li>
+                        <li>Untamed by Glennon Doyle</li>
+                        <li>Camino Winds by John Grisham</li>
+                      </ul>
+                </div>
+                <a href="./bookshop.xml" class="bookshop-title">CLICK HERE TO FIND COMPLETE BOOKLIST</a>
+            </div>
+            <!-- Column for Top 5 Rated Books -->
+            <div class="bookshop-col">
+                <!-- Top 5 Rated Books list -->
+                <div class=" bookshop-black bookshop-details">
+                    <h3>Top 5 Rated Books</h3>
+                    <ol>
+                        <li>The Vanishing Half by Brit Bennett </li>
+                        <li>Mexican Gothic by Silvia Moreno-Garcia </li>
+                        <li>A Burning by Megha Majumdar </li>
+                        <li>The Glass Hotel by Emily St. John Mandel </li>
+                        <li>Such a Fun Age by Kiley Reid </li>
+                      </ol>
+                </div>
+            </div>
+        </div>    
+    <div class="bookshop-banner" id="event-section"></div>
+
+    <!-- Book Festival Section -->
+    <div class="bookshop-event bookshop-padding">
+        <h2 style="color: rgb(29, 201, 236);">International Book Festival</h2>
+        <p>Explore a wide range of books at the upcoming book festival.</p>
+        <p>Don't miss the date!</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/OAreo8_SwuE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+    <!-- Book Signing Event Section -->
+    <div class="bookshop-event bookshop-padding">
+        <h2 style="color: rgb(29, 201, 236);">Book Signing Events</h2>
+        <p>Here is the timetable for this week event.</p>
+        <p>Join us for exciting book signing events and book festivals!</p>
+        <!-- Timetable for book signing events -->
+        <table>
+            <tr>
+                <th rowspan="2">Day</th>
+                <th colspan="7">Time</th>
+            </tr>
+            <!-- Timetable header with time slots -->
+            <tr>
+                <th>9:00 AM</th>
+                <th>10:00 AM</th>
+                <th>11:00 AM</th>
+                <th>12:00 PM</th>
+                <th>1:00 PM</th>
+                <th>2:00 PM</th>
+                <th>3:00 PM</th>
+            </tr>
+            <!-- Monday event schedule -->
+            <tr>
+                <td rowspan="3">Monday</td>
+                <td colspan="2">Stephen King</td>
+                <td>Agatha Christie</td>
+                <td colspan="2">Haruki Murakami</td>
+                <td>Neil Gaiman</td>
+                <td>Joanne Rowling</td>
+            </tr>
+            <tr>
+                <td colspan="3">John Grisham</td>
+                <td>George R.R. Martin</td>
+                <td colspan="2">Margaret Atwood</td>
+                <td>Toni Morrison</td>
+            </tr>
+            <tr>
+                <td>Anna Todd</td>
+                <td>Michael Green</td>
+                <td>Michelle Obama</td>
+                <td>Lucy Johnson</td>
+                <td colspan="2">J.K. Rowling</td>
+                <td>Markus Zusak</td>
+            </tr>
+            <!-- Tuesday event schedule -->
+            <tr>
+                <td rowspan="3">Tuesday</td>
+                <td colspan="2">Agatha Christie</td>
+                <td>John Grisham</td>
+                <td colspan="2">Stephen King</td>
+                <td>Neil Gaiman</td>
+                <td>Joanne Rowling</td>
+            </tr>
+            <tr>
+                <td colspan="3">Margaret Atwood</td>
+                <td>George R.R. Martin</td>
+                <td colspan="2">Haruki Murakami</td>
+                <td>Toni Morrison</td>
+            </tr>
+            <tr>
+                <td>Lucas Anderson</td>
+                <td>Michael Green</td>
+                <td>Michelle Obama</td>
+                <td colspan="2">Available</td>
+                <td>Available</td>
+                <td>Available</td>
+            </tr>
+            <!-- Wednesday event schedule -->
+            <tr>
+                <td rowspan="3">Wednesday</td>
+                <td colspan="2">Stephen King</td>
+                <td>Agatha Christie</td>
+                <td colspan="3">John Grisham</td>
+                <td>Margaret Atwood</td>
+            </tr>
+            <tr>
+                <td colspan="2">Available</td>
+                <td>Available</td>
+                <td colspan="3">Available</td>
+                <td>Available</td>
+            </tr>
+            <tr>
+                <td>Lucas Anderson</td>
+                <td>Michael Green</td>
+                <td>Michelle Obama</td>
+                <td colspan="3">J.K. Rowling</td>
+                <td>Markus Zusak</td>
+            </tr>
+            <!-- Thursday event schedule -->
+            <tr>
+                <td rowspan="3">Thursday</td>
+                <td>Anna Todd</td>
+                <td>Michael Green</td>
+                <td colspan="2">Available</td>
+                <td>Available</td>
+                <td>Available</td>
+                <td>Available</td>
+            </tr>
+            <tr>
+                <td colspan="3">Available</td>
+                <td>Available</td>
+                <td colspan="2">Available</td>
+                <td>Available</td>
+            </tr>
+            <tr>
+                <td>Stephen King</td>
+                <td>John Grisham</td>
+                <td>Haruki Murakami</td>
+                <td>Lucy Johnson</td>
+                <td colspan="2">Available</td>
+                <td>Markus Zusak</td>
+            </tr>
+            <!-- Friday event schedule -->
+            <tr>
+                <td rowspan="3">Friday</td>
+                <td colspan="2">Haruki Murakami</td>
+                <td>George R.R. Martin</td>
+                <td>Available</td>
+                <td colspan="2">Available</td>
+                <td>Toni Morrison</td>
+            </tr>
+            <tr>
+                <td colspan="3">Available</td>
+                <td>Available</td>
+                <td colspan="2">Available</td>
+                <td>Available</td>
+            </tr>
+            <tr>
+                <td>Anna Todd</td>
+                <td>Michael Green</td>
+                <td>Michelle Obama</td>
+                <td colspan="2">J.K. Rowling</td>
+                <td>Available</td>
+                <td>Neil Gaiman</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="bookshop-banner"  id="information"></div>
+
+    <!-- Bookshop Information Section -->
+    <div class="bookshop-title bookshop-center">
+        <h2>About Us</h2>
+        <p style="color: rgb(5, 5, 5);">Below you can find our opening hours schedule, location and contact details</p>
+        <!-- Section with information about opening hours, location, and contact -->
+        <div class="bookshop-row bookshop-large bookshop-section-break bookshop">
+            <!-- Column for Opening Hours -->
+            <div class="bookshop-col bookshop-center bookshop-container bookshop-margin-bottom">
+                <!-- Opening Hours details -->
+                <div class="bookshop-container bookshop-black" style="height: 180px;">
+                    <p style="color: white;"><b>Opening Hours</b></p>
+                    <p style="text-align: center; color: white;">Monday: 9:00 AM - 6:00 PM</p>
+                    <p style="text-align: center; color: white;">Tuesday: 9:00 AM - 6:00 PM</p>
+                    <p style="text-align: center; color: white;">Wednesday: 9:00 AM - 6:00 PM</p>
+                    <p style="text-align: center; color: white;">Thursday: 9:00 AM - 6:00 PM</p>
+                    <p style="text-align: center; color: rgb(58, 222, 17);"><b>Friday: 9:00 AM - 8:00 PM*</b></p>
+                    <p style="text-align: center; color: white;">Saturday: 10:00 AM - 4:00 PM</p>
+                    <p style="text-align: center; color: rgb(251, 3, 3); font-style: italic;"><b>Sundays and public holidays: Closed</b></p>
+                    <p style="text-align: center; color: white;"><b>* Special Closing Hours</b></p>
+                </div>
+            </div>
+            <!-- Column for Location -->
+            <div class="bookshop-col bookshop-center bookshop-container bookshop-margin-bottom">
+                <div class="bookshop-container bookshop-black" style="height: 180px;">
+                    <p style="color: white;"><b>Location</b></p>
+                    <p style="color: white;">123 Main Street, Cascavelle</p>
+                    <a href="https://www.google.mu/maps/place/Cascavelle+Shopping+Mall/@-20.2785533,57.4001831,17.26z/data=!4m6!3m5!1s0x217c43c91f9d2175:0x519f0dfb1ce702e8!8m2!3d-20.2788967!4d57.4028496!16s%2Fg%2F11g0ss4w37?hl=en&entry=ttu" style="color: white;">Click
+                        here to find us!</a>
+                </div>
+            </div>
+            <!-- Column for Contact -->
+            <div class="bookshop-col bookshop-center bookshop-container">
+                <!-- Contact details -->
+                <div class="bookshop-container bookshop-black" style="height: 180px;">
+                    <p style="color: white;"><b>Contact</b></p>
+                    <p style="color: white;">Phone: +230 4059875</p>
+                    <p style="color: white;">Email: info@theletteredlodgebookshop.com</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bookshop-center bookshop-padding-48 bookshop-large">
+        <p style="color: rgb(29, 201, 236);" class="bookshop-small">Designed by Arusha Ramessur, Urvashi Rangan, Peshal Koolomuth, Upshrutee Bucktowar.</p>
+        <p style="color: rgb(29, 201, 236);" class="bookshop-small">Copyright© 2023</p>
+    </footer>
+</body>
+</html>

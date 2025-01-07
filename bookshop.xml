@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="bookshop.xsl"?>
+<!DOCTYPE bookshop SYSTEM "bookshop.dtd"> <!--Import set of rules from bookshop.dtd-->
+
+<bookshop>
+  <book>
+    <cover_url>https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/After_2014_novel_cover.jpg/220px-After_2014_novel_cover.jpg</cover_url>
+    <ID>1</ID>
+    <title>After</title>
+    <price> 500</price>
+    <author>Anna Todd</author>
+    <description>
+      Once she meets Hardin, good girl Tessa’s life will never be the same. He is rude, cocky, and the exact opposite of her reliable boyfriend back home—she should hate him, but then she finds herself alone with him one night. What follows is a passionate but tempestuous romance that turns Tessa’s usually calm and traditional world upside down.
+    </description>
+    <publisher>New York Times bestselling author and Wattpad sensation Anna Todd</publisher>
+    <genre>Romance</genre>
+    <edition>1st Edition</edition>
+    <availability>7</availability>
+  </book>
+  <book>
+    <cover_url>https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781476792491/after-we-collided-9781476792491_hr.jpg</cover_url>
+    <ID>2</ID>
+    <title>After We Collided</title>
+    <price> 550</price>
+    <author>Anna Todd</author>
+    <description>
+      Tessa and Hardin’s tentative relationship takes a devastating turn when a dark secret from Hardin’s mysterious past surfaces. Can Tessa manage to move on and forge a new life for herself? Or will Hardin be able to change enough to win back his one true love?
+    </description>
+    <publisher>New York Times bestselling author and Wattpad sensation Anna Todd</publisher>
+    <genre>Romance</genre>
+    <edition>1st Edition</edition>
+    <availability>4</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/M/MV5BMTEzN2MxZWUtYTJkYS00NjU5LTk0ZjgtNzc1OTMwNWNjZGFkXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg</cover_url>
+    <ID>3</ID>
+    <title>After We Fell</title>
+    <price> 600</price>
+    <author>Anna Todd</author>
+    <description>
+      Hardin isn’t the only one with secrets. Everything Tessa thought she knew about her life goes up in smoke and she has no idea if Hardin will be willing to stay with her. Trapped in a seemingly unending cycle of jealousy and rage, neither has any idea if their passion is enough to keep their relationship alive.
+    </description>
+    <publisher>New York Times bestselling author and Wattpad sensation Anna Todd</publisher>
+    <genre>Romance</genre>
+    <edition>1st Edition</edition>
+    <availability>13</availability>
+  </book>
+  <book>
+    <cover_url>https://upload.wikimedia.org/wikipedia/en/thumb/6/63/AfterEverHappy.jpg/220px-AfterEverHappy.jpg</cover_url>
+    <ID>4</ID>
+    <title>After Ever Happy</title>
+    <price> 550</price>
+    <author>Anna Todd</author>
+    <description>
+      Each new challenge Tessa and Hardin face only makes their passionate bond stronger and stronger. But when a revelation about the past shakes Hardin’s impenetrable façade to the core—and then Tessa suffers a tragedy—will they stick together again or be torn apart?
+    </description>
+    <publisher>New York Times bestselling author and Wattpad sensation Anna Todd</publisher>
+    <genre>Romance</genre>
+    <edition>1st Edition</edition>
+    <availability>8</availability>
+  </book>
+  <book>
+    <cover_url>https://img.wattpad.com/cover/11596691-352-k938767.jpg</cover_url>
+    <ID>5</ID>
+    <title>Before</title>
+    <price>280</price>
+    <author>Anna Todd</author>
+    <description>The ups and downs of Tessa and Hardin’s relationship are explored by others in their lives before, during, and after the events of the series. Finally, Hardin reveals his own perception of his life with Tessa, which will completely change how you see the famous brooding boy and the angel who loved him.</description>
+    <publisher>New York Times bestselling author and Wattpad sensation Anna Todd</publisher>
+    <genre>Romance</genre>
+    <edition>1st</edition>
+    <availability>0</availability>
+  </book>
+  <book>
+    <cover_url>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610900883i/54189398.jpg</cover_url>
+    <ID>6</ID>
+    <title>The Spanish Love Deception</title>
+    <price>600</price>
+    <author>Elisabeth LaBan</author>
+    <description>
+      From the author of the Goodreads Choice Award winner The Spanish Love Deception, the eagerly anticipated follow-up featuring Rosie Graham and Lucas Martín, who are forced to share a New York apartment.
+    </description>
+    <publisher>Goodreads</publisher>
+    <genre>Romance</genre>
+    <edition>1st Edition</edition>
+    <availability>9</availability>
+  </book>
+  <book>
+    <cover_url>https://upload.wikimedia.org/wikipedia/en/a/a9/The_Fault_in_Our_Stars.jpg</cover_url>
+    <ID>7</ID>
+    <title>The Fault in Our Stars</title>
+    <price> 500</price>
+    <author>John Green</author>
+    <description>
+      Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel’s story is about to be completely rewritten.
+    </description>
+    <publisher>Penguin Books</publisher>
+    <genre>Romance</genre>
+    <edition>1st Edition</edition>
+    <availability>7</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/81XS0eEa6dL._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>8</ID>
+    <title>Love on the brain</title>
+    <price> 550</price>
+    <author>Ali Hazelwood</author>
+    <description>
+      An Instant New York Times Bestseller. From the New York Times bestselling author of The Love Hypothesis comes a new STEMinist rom-com in which a scientist is forced to work on a project with her nemesis—with explosive results.
+    </description>
+    <publisher>Harper Collins</publisher>
+    <genre>Romance</genre>
+    <edition>1st Edition</edition>
+    <availability>4</availability>
+  </book>
+  <book>
+    <cover_url>https://shop.pbs.org/graphics/products/zoom/WE7522.jpg</cover_url> 
+    <ID>21</ID>
+    <title>History!</title>
+    <price>750</price>
+    <author>Smith Sonian</author>
+    <description>Journey back in time and marvel at the history of our world like never before with this children's encyclopedia perfect for curious kids.</description>
+    <publisher>DK Publishing</publisher>
+    <genre>Children's Encyclopedia</genre>
+    <edition>2nd Edition</edition>
+    <availability>0</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/A1ZzLLtfklL._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>22</ID>
+    <title>Great Maps</title>
+    <price>600</price>
+    <author>Smith Sonian</author>
+    <description>A superbly illustrated guide to 64 maps from all around the world!</description>
+    <publisher>DK Publishing</publisher>
+    <genre>History</genre>
+    <edition>1st Edition</edition>
+    <availability>6</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/A1un1wEhBmL._AC_UF894,1000_QL80_.jpg</cover_url>
+    <ID>23</ID>
+    <title>Battles That Changed History</title>
+    <price>850</price>
+    <author>DK Publishing</author>
+    <description>From the fury of the Punic Wars to the icy waters of Dunkirk, relive 5,000 years of world-changing combat with this guide to the most famous battles in history.</description>
+    <publisher>DK Publishing</publisher>
+    <genre>Military History</genre>
+    <edition>Revised Edition</edition>
+    <availability>0</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/31ktLD3IJnL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg</cover_url>
+    <ID>24</ID>
+    <title>Slavery: A World History</title>
+    <price>450</price>
+    <author>Milton Meltzer</author>
+    <description>Slavery is not and has never been a "peculiar institution," but one that is deeply rooted in the history and economy of most countries.</description>
+    <publisher>HarperCollins</publisher>
+    <genre>History</genre>
+    <edition>3rd Edition</edition>
+    <availability>5</availability>
+  </book>
+  <book>
+    <cover_url>https://www.jonathanball.co.za/images/stories/virtuemart/product/JB-Apartheid-2ndEd%20FC.jpg</cover_url>
+    <ID>25</ID>
+    <title>Apartheid: An Illustrated History</title>
+    <price>550</price>
+    <author>Michael Morris</author>
+    <description>The one thing that looms largest in South Africa's future is South Africa's past – most especially the nearly five decades of division and conflict at the heart of one of the twentieth century's most infamous social experiments.</description>
+    <publisher>Penguin Random House</publisher>
+    <genre>History</genre>
+    <edition>1st Edition</edition>
+    <availability>3</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/71Jc44eqJCL._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>28</ID>
+    <title>French Revolution</title>
+    <price>300</price>
+    <author>Hourly History</author>
+    <description>During the late years of the 18th century, the spirit of Enlightenment thinking and revolution were in the air. The world was changing, moving away from ingrained beliefs about religion, reason, society, and the rights of the individual and turning more toward the laws of nature as interpreted by the scientific method. Nowhere was the influence of this radical new way of thinking more apparent than in France, and the upheaval this caused would come to bloody fruition in the form of revolution.</description>
+    <publisher>Hourly History</publisher>
+    <genre>History</genre>
+    <edition>1st Edition</edition>
+    <availability>6</availability>
+  </book>
+  <book>
+    <cover_url>https://covers.openlibrary.org/b/id/10335113-L.jpg</cover_url>
+    <ID>29</ID>
+    <title>The History of Western Art</title>
+    <price>650</price>
+    <author>Sebastian Comberti, Peter Whitfield</author>
+    <description>What is art? Why do we value images of saints, kings, goddesses, battles, landscapes, or cities from eras of history utterly remote from ourselves? This history of art shows how painters, sculptors, and architects have expressed the belief systems of their age: religious, political, and aesthetic.</description>
+    <publisher>DK Publishing</publisher>
+    <genre>History</genre>
+    <edition>Revised Edition</edition>
+    <availability>8</availability>
+  </book>
+  <book>
+    <cover_url>https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_568,c_scale/jackets/9781408883747.jpg</cover_url>
+    <ID>32</ID>
+    <title>Harry Potter and the Philosopher's Stone</title>
+    <price> 450 </price>
+    <author>J.K. Rowling</author>
+    <description>The first book in the beloved Harry Potter series, following the magical journey of a young wizard as he discovers his true identity, attends Hogwarts School of Witchcraft and Wizardry, and faces the Dark Lord, Voldemort.</description>
+    <publisher>Bloomsbury Publishing</publisher>
+    <genre>Children's Fantasy</genre>
+    <edition>1st Edition</edition>
+    <availability>0</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/91scA0wTmjL._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>34</ID>
+    <title>Matilda</title>
+    <price>280 </price>
+    <author>Roald Dahl</author>
+    <description>A heartwarming story about a young girl named Matilda who discovers her extraordinary telekinetic powers, outsmarts her cruel parents and the tyrannical headmistress Miss Trunchbull, and finds solace in books and education.</description>
+    <publisher>Puffin Books</publisher>
+    <genre>Children's Fiction</genre>
+    <edition>1st Edition</edition>
+    <availability>10</availability>
+  </book>
+  <book>
+    <cover_url>https://cdn.britannica.com/64/103064-050-AB830947/Charlottes-Web-EB-Garth-Williams.jpg</cover_url>
+    <ID>35</ID>
+    <title>Charlotte's Web</title>
+    <price> 320 </price>
+    <author>E.B. White</author>
+    <description>A heartwarming tale of friendship and loyalty, as a young girl named Fern and a spider named Charlotte team up to save Wilbur the pig from an untimely fate, teaching important life lessons along the way.</description>
+    <publisher>HarperCollins</publisher>
+    <genre>Children's Fiction</genre>
+    <edition>1st Edition</edition>
+    <availability>6</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/91vnzZO5yPL._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>36</ID>
+    <title>The Very Hungry Caterpillar</title>
+    <price>190 </price>
+    <author>Eric Carle</author>
+    <description>A classic picture book that follows the journey of a caterpillar as it eats its way through various foods, eventually transforming into a beautiful butterfly, teaching counting, days of the week, and the life cycle of a butterfly.</description>
+    <publisher>Philomel Books</publisher>
+    <genre>Children's Picture Book</genre>
+    <edition>1st Edition</edition>
+    <availability>4</availability>
+  </book>
+  <book>
+    <cover_url>https://www.thoughtco.com/thmb/5wWqGhD98mjcTS0-ouqsCgD95BQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Wherethe-5c60a9d0c9e77c000166221b.jpg</cover_url>
+    <ID>37</ID>
+    <title>Where the Wild Things Are</title>
+    <price> 240 </price>
+    <author>Maurice Sendak</author>
+    <description>A beloved picture book about a mischievous boy named Max who sails to an island inhabited by wild creatures, becomes their king, and learns the importance of love and home before returning to his own room.</description>
+    <publisher>HarperCollins</publisher>
+    <genre>Children's Picture Book</genre>
+    <edition>1st Edition</edition>
+    <availability>2</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/81mSqW+gd-L._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>38</ID>
+    <title>The BFG</title>
+    <price>380 </price>
+    <author>Roald Dahl</author>
+    <description>A whimsical story about a young orphan girl named Sophie who befriends a friendly Big Friendly Giant (BFG) and together they embark on a thrilling adventure to stop the man-eating giants from devouring children.</description>
+    <publisher>Puffin Books</publisher>
+    <genre>Children's Fantasy</genre>
+    <edition>1st Edition</edition>
+    <availability>1</availability>
+  </book>
+  <book>
+    <cover_url>https://pictures.abebooks.com/inventory/9201419371.jpg</cover_url>
+    <ID>41</ID>
+    <title>Mountaineering: The Freedom of the Hills</title>
+    <price> 750 </price>
+    <author>The Mountaineers</author>
+    <description>An essential guide for mountaineers, covering a wide range of topics including climbing techniques, safety practices, wilderness navigation, and expedition planning.</description>
+    <publisher>The Mountaineers Books</publisher>
+    <genre>Outdoor </genre>
+    <edition>9th Edition</edition>
+    <availability>0</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/51ONXf7Xe+L._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>42</ID>
+    <title>Wilderness Survival</title>
+    <price>450 </price>
+    <author>Greg Davenport</author>
+    <description>A comprehensive guide to surviving in the wilderness, covering essential skills such as shelter building, fire making, foraging, navigation, and emergency signaling.</description>
+    <publisher>International Marine/Ragged Mountain Press</publisher>
+    <genre>Outdoor </genre>
+    <edition>3rd Edition</edition>
+    <availability>9</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/71hYtholQWL._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>43</ID>
+    <title>Bushcraft 101: A Field Guide to the Art of Wilderness Survival</title>
+    <price>550 </price>
+    <author>Dave Canterbury</author>
+    <description>A practical guide to bushcraft skills, including shelter construction, fire craft, water sourcing, edible plant identification, and primitive tool-making techniques.</description>
+    <publisher>Adams Media</publisher>
+    <genre>Outdoor </genre>
+    <edition>1st Edition</edition>
+    <availability>0</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/51RknR3UdcL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA463%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg</cover_url>
+    <ID>44</ID>
+    <title>The Ultimate Hiker's Gear Guide: Tools and Techniques to Hit the Trail</title>
+    <price> 400 </price>
+    <author>Andrew Skurka</author>
+    <description>A comprehensive resource for hikers, providing expert advice on gear selection, backpacking skills, navigation, trip planning, and strategies for maximizing comfort and efficiency on the trail.</description>
+    <publisher>National Geographic</publisher>
+    <genre>Outdoor</genre>
+    <edition>2nd Edition</edition>
+    <availability>7</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/71s+Dg+8e8L._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>45</ID>
+    <title>The Complete Walker IV</title>
+    <price>680 </price>
+    <author>Colin Fletcher, Chip Rawlins</author>
+    <description>An extensively revised and updated edition of the classic backpacking guide, offering comprehensive information on equipment, clothing, food, wilderness ethics, and the art of walking.</description>
+    <publisher>Knopf</publisher>
+    <genre>Outdoor</genre>
+    <edition>4th Edition</edition>
+    <availability>4</availability>
+  </book>
+  <book>
+    <cover_url>https://covers.openlibrary.org/b/id/12734177-L.jpg</cover_url>
+    <ID>46</ID>
+    <title>Beyond Backpacking: Ray Jardine's Guide to Lightweight Hiking</title>
+    <price>520 </price>
+    <author>Ray Jardine</author>
+    <description>A groundbreaking book on ultralight backpacking, focusing on reducing pack weight, efficient gear selection, and innovative techniques for enjoying the outdoors with minimal impact.</description>
+    <publisher>Aventure Lore Press</publisher>
+    <genre>Outdoor</genre>
+    <edition>1st Edition</edition>
+    <availability>6</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/71obdFTR-EL._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>47</ID>
+    <title>The Outdoor Knots Book</title>
+    <price>320 </price>
+    <author>Clyde Soles</author>
+    <description>A handy guide to essential knots for outdoor enthusiasts, featuring step-by-step instructions, illustrations, and practical tips for tying knots used in camping, climbing, boating, and survival situations.</description>
+    <publisher>Mountaineers Books</publisher>
+    <genre>Outdoor</genre>
+    <edition>2nd Edition</edition>
+    <availability>11</availability>
+  </book>
+  <book>
+    <cover_url>https://images-na.ssl-images-amazon.com/images/I/51ku8oDdrVL._AC_UL600_SR600,600_.jpg</cover_url>
+    <ID>48</ID>
+    <title>The Backpacker's Field Manual</title>
+    <price>390 </price>
+    <author>Rick Curtis</author>
+    <description>An informative guide for backpackers, covering everything from trip planning and navigation to camping techniques, equipment recommendations, and outdoor safety.</description>
+    <publisher>Three Rivers Press</publisher>
+    <genre>Outdoor</genre>
+    <edition>3rd Edition</edition>
+    <availability>0</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/51L+3fbhYML.jpg</cover_url>
+    <ID>51</ID>
+    <title>The Girl with the Dragon Tattoo</title>
+    <price> 650 </price>
+    <author>Stieg Larsson</author>
+    <description>A gripping crime thriller featuring an enigmatic hacker and a journalist who team up to solve a decades-old mystery, uncovering dark secrets and corruption along the way.</description>
+    <publisher>Vintage Crime/Black Lizard</publisher>
+    <genre>Thriller/Mystery</genre>
+    <edition>1st Edition</edition>
+    <availability>5</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/41wjnFxdxnL.jpg</cover_url>
+    <ID>52</ID>
+    <title>Gone Girl</title>
+    <price>550 </price>
+    <author>Gillian Flynn</author>
+    <description>A psychological thriller that explores the twisted dynamics of a seemingly perfect marriage, revealing shocking secrets and a game of manipulation between husband and wife.</description>
+    <publisher>Broadway Books</publisher>
+    <genre>Thriller/Mystery</genre>
+    <edition>1st Edition</edition>
+    <availability>18</availability>
+  </book>
+  <book>
+    <cover_url>https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/DaVinciCode.jpg/220px-DaVinciCode.jpg</cover_url>
+    <ID>53</ID>
+    <title>The Da Vinci Code</title>
+    <price> 480 </price>
+    <author>Dan Brown</author>
+    <description>A fast-paced mystery thriller that follows a symbologist and a cryptologist as they unravel an ancient conspiracy, involving hidden codes, religious symbols, and a quest for a mysterious artifact.</description>
+    <publisher>Anchor Books</publisher>
+    <genre>Thriller/Mystery</genre>
+    <edition>1st Edition</edition>
+    <availability>3</availability>
+  </book>
+  <book>
+    <cover_url>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1668782119i/40097951.jpg</cover_url>
+    <ID>54</ID>
+    <title>The Silent Patient</title>
+    <price>420 </price>
+    <author>Alex Michaelides</author>
+    <description>A gripping psychological thriller about a famous painter who becomes a silent and mysterious patient in a secure psychiatric facility, while a psychotherapist is determined to uncover the truth behind her silence.</description>
+    <publisher>Celadon Books</publisher>
+    <genre>Thriller/Mystery</genre>
+    <edition>1st Edition</edition>
+    <availability>20</availability>
+  </book>
+  <book>
+    <cover_url>https://temple-publications.com/wp-content/uploads/2022/07/521.jpg</cover_url>
+    <ID>55</ID>
+    <title>The Girl on the Train</title>
+    <price>380 </price>
+    <author>Paula Hawkins</author>
+    <description>A gripping psychological thriller that follows an alcoholic woman who becomes entangled in a missing person investigation, gradually uncovering shocking truths about the people involved.</description>
+    <publisher>Riverhead Books</publisher>
+    <genre>Thriller/Mystery</genre>
+    <edition>1st Edition</edition>
+    <availability>4</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/71P4yMo+saL._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>56</ID>
+    <title>The Secret History</title>
+    <price> 520 </price>
+    <author>Donna Tartt</author>
+    <description>A compelling mystery novel that delves into the dark secrets and twisted relationships among a group of college students, leading to a shocking crime and its haunting aftermath.</description>
+    <publisher>Vintage Books</publisher>
+    <genre>Thriller/Mystery</genre>
+    <edition>1st Edition</edition>
+    <availability>0</availability>
+  </book>
+  <book>
+    <cover_url>https://upload.wikimedia.org/wikipedia/en/b/b6/BeforeIGoToSleep.jpg</cover_url>
+    <ID>57</ID>
+    <title>Before I Go to Sleep</title>
+    <price>450</price>
+    <author>S.J. Watson</author>
+    <description>A gripping psychological thriller about a woman who wakes up every day with no memory of her past, and as she starts keeping a journal, she begins to unravel the unsettling truth about her life.</description>
+    <publisher>HarperCollins</publisher>
+    <genre>Thriller/Mystery</genre>
+    <edition>1st Edition</edition>
+    <availability>7</availability>
+  </book>
+  <book>
+    <cover_url>https://temple-publications.com/wp-content/uploads/2022/07/520.jpg</cover_url>
+    <ID>59</ID>
+    <title>Big Little Lies</title>
+    <price>390 </price>
+    <author>Liane Moriarty</author>
+    <description>A suspenseful mystery novel that explores the lives of three women, each with their own secrets, as their lives intertwine and lead to a shocking and tragic event during a school trivia night.</description>
+    <publisher>Berkley</publisher>
+    <genre>Thriller/Mystery</genre>
+    <edition>1st Edition</edition>
+    <availability>0</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/71OMelbI6sL._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>61</ID>
+    <title>The Laws Of Human Nature</title>
+    <price> 570</price>
+    <author>Robert Greene</author>
+    <description>WINNER OF THE INTERNATIONAL BUSINESS BOOK AWARD 2019Robert Greene is a master guide for millions of readers, distilling ancient wisdom and philosophy into essential texts for seekers of power, understanding and mastery.</description>
+    <publisher>Viking; Book Club Edition (October 23, 2018)</publisher>
+    <genre>Self-help</genre>
+    <edition>1st Edition</edition>
+    <availability>1</availability>
+  </book>
+  <book>
+    <cover_url>https://temple-publications.com/wp-content/uploads/2022/03/86.jpg</cover_url>
+    <ID>62</ID>
+    <title>Atomic Habits: the life-changing million-copy</title>
+    <price> 610 </price>
+    <author>James Clear</author>
+    <description>Transform your life with tiny changes in behaviour, starting now.
+
+        People think that when you want to change your life, you need to think big. But world-renowned habits expert James Clear has discovered another way. He knows that real change comes from the compound effect of hundreds of small decisions: doing two push-ups a day, waking up five minutes early, or holding a single short phone call.
+        
+        He calls them atomic habits.
+        
+        In this ground-breaking book, Clears reveals exactly how these minuscule changes can grow into such life-altering outcomes. He uncovers a handful of simple life hacks (the forgotten art of Habit Stacking, the unexpected power of the Two Minute Rule, or the trick to entering the Goldilocks Zone), and delves into cutting-edge psychology and neuroscience to explain why they matter. Along the way, he tells inspiring stories of Olympic gold medalists, leading CEOs, and distinguished scientists who have used the science of tiny habits to stay productive, motivated, and happy.
+        
+        These small changes will have a revolutionary effect on your career, your relationships, and your life.
+    </description>
+    <publisher>Penguin Random House</publisher>
+    <genre>Self-help</genre>
+    <edition>1st Edition</edition>
+    <availability>2</availability>
+  </book>
+  <book>
+    <cover_url>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642512236i/60153064.jpg</cover_url>
+    <ID>63</ID>
+    <title>When You're Ready, This Is How You Heal: Let Go and Find Yourself</title>
+    <price> 930 </price>
+    <author>Brianna West</author>
+    <description>Painful events in our lives can throw us off course permanently. In her new book, Brianna Wiest shows how we can heal ourselves. Healing means accepting the pain and really looking. Healing is embarking on a journey, because whether physical or spiritual, it is neither linear nor seamless. Healing means vulnerability. Healing means moving on, with a wounded but open heart. Healing happens when we learn to let go and find the courage to see our past life for what it was so that we can see our present life for what it is: full of hope and potential. This book is balm for every soul on the journey of its own becoming.</description>
+    <publisher> Thought Catalog Books</publisher>
+    <genre>Self-help</genre>
+    <edition>1st Edition</edition>
+    <availability>14</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/31hsTP2ZPJL._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>64</ID>
+    <title>The Chemistry of Calm: A Powerful, Drug-Free Plan to Quiet Your Fears and Overcome Your Anxiety</title>
+    <price> 750 </price>
+    <author>Henry Emmons, M.D</author>
+    <description>Blending Eastern techniques of meditation with traditional Western solutions of diet and exercise, celebrated psychiatrist Dr. Henry Emmons offers a proven plan to combat anxiety--without medication--that has helped tens of thousands gain inner peace and start enjoying life.
+      The debilitating effects of anxiety can affect your sense of well-being, health, longevity, productivity, and relationships. In The Chemistry of Calm, Dr. Henry Emmons presents his Resilience Training Program--a groundbreaking regimen designed to relieve anxiety and restore physical and mental strength. This step-by-step plan for mental calmness and emotional wisdom focuses on ways to create resilience as a key to resolving anxiety in everyday life, incorporating the latest science on:
+      -Diet--you've got to eat good food to feel good
+      -Exercise--it's proven: moving makes you less anxious
+      -Nutritional Supplements--boosting your natural anxiety resistance
+      -Mindfulness--including meditation techniques to calm your body and brain
+      Using this program, Dr. Emmons has helped countless patients reduce their anxiety and reclaim the resilience that is their birthright. Now, with The Chemistry of Calm, you can be anxiety free too
+    </description>
+    <publisher>Atria; Original ed. edition(October 5, 2010)</publisher>
+    <genre>Self-help</genre>
+    <edition>1st Edition</edition>
+    <availability>11</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/71XVHo-VS5L._AC_UF350,350_QL50_.jpg</cover_url>
+    <ID>65</ID>
+    <title>The Power of You: How to Live Your Authentic, Exciting, Joy-Filled Life Now!</title>
+    <price> 650 </price>
+    <author>Chris Michaels</author>
+    <description>Practical, motivating, and inspiring ways to unleash your potential—from one of today’s most exciting spiritual teachers!
+ 
+      You are a masterpiece. You have everything you need right now to create your life exactly as you want it to be.
+       
+      Successful people will often say that when they’re at their peak performance level, they feel a sense of some other presence with them—something beyond themselves. That other presence seems bigger than their own talent or personality.
+      
+      The Power of You guides readers in discovering the other presence that resides within all of us. As author and spiritual director Chris Michaels shows, once we are able to tap into this presence, we can use it to help improve every aspect of our lives.
+      
+    </description>
+    <publisher>Tarcher Perigee</publisher>
+    <genre>Self-help</genre>
+    <edition>1st Edition</edition>
+    <availability>9</availability>
+  </book>
+  <book>
+    <cover_url>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590806892i/53642699.jpg</cover_url>
+    <ID>66</ID>
+    <title>The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery</title>
+    <price> 500 </price>
+    <author>Brianna Wiest</author>
+    <description>It's a book about self-sabotage. Why we do it, when we do it, and how to stop doing it, for good. Coexisting but contradictory needs create self-sabotaging behaviors. This is why we resist efforts to change, often until they seem totally futile. But by extracting crucial information from our most damaging habits, developing emotional intelligence by better understanding our brain and body, releasing past experiences at the cellular level, and learning to act as our highest potential future future, we can step out of our own way and step into our potential. For centuries, the mountain has been used as a metaphor for the great challenges we face, especially those that seem impossible to overcome. To climb our mountains, we need to do the deep inner work of digging into trauma, building resilience, and adjusting how we present ourselves for the climb. In the end, it is not the mountain that we master, but ourselves.</description>
+    <publisher>Thought Catalog Books</publisher>
+    <genre>Self-help</genre>
+    <edition>1st Edition</edition>
+    <availability>3</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/41QmjZww3oL._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>67</ID>
+    <title>Things We Don't Talk about</title>
+    <price> 800 </price>
+    <author> Pandora Owl</author>
+    <description>"Things We Don't Talk About" is a short collection of thoughts, quotes and poetry highlighting some hardships of living with depression and mental illness and the effects it has on relationships with yourself and loved ones. It's a personal lens into the darkest places your mind can take you and the struggle of battling your own mind. It's a peak of what's underneath the surface that most people battle in silence, something you may or may not relate to. If you're reading this, it's not too late and you're not alone. In addition, I just wanted to say thank you for allowing me to share a part of me, whether it was specifically of value to you. I hope to make at least one person in this world to feel less alone. Communication and or expressing our feelings, it's one of the hardest things to do. Often we get discouraged to even try to express ourselves due to the fear of not being understood and or not doing it the "right" way. We are all human and the best thing we can do is to continue trying. Please keep an open mind and always lead with love.</description>
+    <publisher> Independently published (January 27, 2019)</publisher>
+    <genre>Self-help</genre>
+    <edition>1st Edition</edition>
+    <availability>17</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/71BvjRMwUjL._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>68</ID>
+    <title>Louder than Words: Harness the Power of Your Authentic Voice</title>
+    <price> 510 </price>
+    <author>Todd Henry</author>
+    <description>The next step in personal effectiveness, by the acclaimed author of The Accidental Creative and Die Empty.
+
+      There has never been a better time to build an audience around your idea or product. But with so many people and companies clamoring for attention, it’s also more challenging than ever to do work that deeply resonates with the marketplace and creates true and lasting impact.
+      According to Todd Henry, the key to standing apart from the noise is to find your unique voice. Those who identify and develop their voices will gain more attention and wield more influence. But first they have to identify what they truly stand for, develop a compelling vision, and become masters of expressing their ideas in whatever media they choose. Henry offers strategies, exercises, and true stories that illustrate the five attributes of resonant work: Authenticity: Uncover the narratives that are at the core of your personal and professional identity.Uniqueness: Identify what makes your work distinct from that of others, and learn to creatively package and present your message.Consonance: Cultivate internal consistency and harmony in your work. Empathy: Listen to your audience’s aspirations and struggles to make your message more compelling.Timing: Learn how to coordinate your work with ideas that already have cultural momentum.
+      Making your work speak is a life-long process of trial, error, and realignment. Henry’s book will help readers build a body of work that resonates deeply and achieves lasting impact.
+    </description>
+    <publisher>Brilliance Audio</publisher>
+    <genre>Self-help</genre>
+    <edition>1st Edition</edition>
+    <availability>6</availability>
+  </book>
+  <book>
+    <cover_url> https://cdn.britannica.com/21/182021-050-666DB6B1/book-cover-To-Kill-a-Mockingbird-many-1961.jpg</cover_url>
+    <ID>71</ID>
+    <title>TO KILL A MOCKINGBIRD</title>
+    <price>  750 </price>
+    <author>Harper Lee</author>
+    <description> A lawyer's advice to his children as he defends the real mockingbird of Harper Lee's classic novel - a black man falsely charged with the rape of a white girl. Through the young eyes of Scout and Jem Finch, Harper Lee explores with exuberant humour the irrationality of adult attitudes to race and class in the Deep South of the 1930s. The conscience of a town steeped in prejudice, violence and hypocrisy is pricked by the stamina of one man's struggle for justice. But the weight of history will only tolerate so much.
+      To Kill a Mockingbird is a coming-of-age story, an anti-racist novel, a historical drama of the Great Depression and a sublime example of the Southern writing tradition. 
+    </description>
+    <publisher>Arrow</publisher>
+    <genre>Fiction</genre>
+    <edition>1st Edition</edition>
+    <availability>13</availability>
+  </book>
+  <book>
+    <cover_url>https://ik.imagekit.io/panmac/tr:di-placeholder_portrait_aMjPtD9YZ.jpg,tr:w-350,f-jpg,pr-true/edition/9781529043525.jpg</cover_url>
+    <ID>72</ID>
+    <title>Atlas: The Story of Pa Salt</title>
+    <price> 670 </price>
+    <author> Lucinda Riley, Harry Whittaker</author>
+    <description>Spanning a lifetime of love and loss, crossing borders and oceans, Atlas: The Story of Pa Salt, co-authored by her son Harry Whittaker, draws Lucinda Riley's Seven Sisters series to its stunning, unforgettable conclusion.
+      1928, Paris
+      A boy is found, moments from death, and taken in by a kindly family. Gentle, precocious, talented, he flourishes in his new home, and the family show him a life he hadn't dreamed possible. But he refuses to speak a word about who he really is.
+      As he grows into a young man, falling in love and taking classes at the prestigious Conservatoire de Paris, he can almost forget the terrors of his past, or the promise he has vowed to keep. But across Europe an evil is rising, and no-one's safety is certain. In his heart, he knows the time will come where he must flee once more.
+      2008, the Aegean
+      The seven sisters are gathered together for the first time, on board the Titan to say a final goodbye to the enigmatic father they loved so dearly.
+      To the surprise of everyone, it is the missing sister who Pa Salt has chosen to entrust with the clue to their pasts. But for every truth revealed, another question emerges. The sisters must confront the idea that their adored father was someone they barely knew. And even more shockingly: that these long-buried secrets may still have consequences for them today.
+    </description>
+    <publisher> Blue Box Press</publisher>
+    <genre>Fiction</genre>
+    <edition>3rd Edition</edition>
+    <availability>17</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/81E9oNSK3bL._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>73</ID>
+    <title>Life of Pi: Yann Martel</title>
+    <price>  550 </price>
+    <author>Yann Martel</author>
+    <description>One boy, one boat, one tiger . . .
+
+      After the tragic sinking of a cargo ship, a solitary lifeboat remains bobbing on the wild, blue Pacific. The only survivors from the wreck are a sixteen-year-old boy named Pi, a hyena, a zebra (with a broken leg), a female orang-utan - and a 450-pound Royal Bengal tiger. The scene is set for one of the most extraordinary and best-loved works of fiction in recent years
+    </description>
+    <publisher>Mariner Books</publisher>
+    <genre>Fiction</genre>
+    <edition>1st Edition</edition>
+    <availability>3</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/51ed9lVnWHL._SL500_.jpg</cover_url>
+    <ID>74</ID>
+    <title>Hundred-Year-Old Man Who Climbed Out of the Window</title>
+    <price>  710 </price>
+    <author>Jonas Jonasson</author>
+    <description>Sitting quietly in his room in an old people's home, Allan Karlsson is waiting for a party he doesn't want to begin. His one-hundredth birthday party to be precise. The Mayor will be there. The press will be there. But, as it turns out, Allan will not ...Escaping (in his slippers) through his bedroom window, into the flowerbed, Allan makes his getaway. And so begins his picaresque and unlikely journey involving criminals, several murders, a suitcase full of cash, and incompetent police. As his escapades unfold, Allan's earlier life is revealed. A life in which - remarkably - he played a key role behind the scenes in some of the momentous events of the twentieth century.</description>
+    <publisher>Hachette Books</publisher>
+    <genre>Fiction</genre>
+    <edition>2nd Edition</edition>
+    <availability>8</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/81e+mSqZvnL._AC_UF894,1000_QL80_.jpg</cover_url>
+    <ID>75</ID>
+    <title>Delia Owens - Where the Crawdads Sing</title>
+    <price> 860 </price>
+    <author>Delia Owens</author>
+    <description>For years, rumors of the "Marsh Girl" have haunted Barkley Cove, a quiet town on the North Carolina coast. So in late 1969, when handsome Chase Andrews is found dead, the locals immediately suspect Kya Clark, the so-called Marsh Girl. Goal Kya is not what they say. Sensitive and intelligent, she has survived for years alone in the marsh that she calls home, finding friends in the gulls and lessons in the sand. Then the time comes when she yearns to be touched and loved. When two young men from town become intrigued by her wild beauty, Kya opens herself to a new life - until the unthinkable happens.
+    Perfect for fans of Barbara Kingsolver and Celeste Ng, Where the Crawdads Sing is at once an exquisite ode to the natural world, a heartbreaking coming-of-age story, and a surprising tale of possible murder. Owens reminds us that we are forever shaped by the children we once were, and that we are all subject to the beautiful and violent secrets that nature keeps.
+    </description>
+    <publisher>Makos</publisher>
+    <genre>Fiction</genre>
+    <edition>4th Edition</edition>
+    <availability>6</availability>
+  </book>
+  <book>
+    <cover_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1607320833l/55994372._SY475_.jpg></cover_url>
+    <ID>78</ID>
+    <title>The Paper Palace: Miranda Cowley Heller</title>
+    <price>745 </price>
+    <author>Miranda Cowley Heller</author>
+    <description>A PAGE-TURNING SUMMERTIME READ FOR FANS OF WHERE THE CRAWDADS SING AND LITTLE FIRES EVERYWHERE
+      On a perfect August morning, Elle Bishop heads out for a swim in the pond below 'The Paper Palace' - her family's holiday home in Cape Cod. As she dives beneath the water she relives the passionate encounter she had the night before, against the side of the house that knows all her darkest secrets, while her husband and mother chatted to their guests inside...
+      So begins a story that unfolds over twenty-four hours and fifty years, as Elle's shocking betrayal leads her to a life-changing decision.
+    </description>
+    <publisher>Riverhead Books</publisher>
+    <genre>Fiction</genre>
+    <edition>3rd Edition</edition>
+    <availability>5</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/51fgmV-kujL._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>81</ID>
+    <title>Healing Is a Gift: Poems for Those Who Need to Grow</title>
+    <price> 650 </price>
+    <author>Alexandra Vasiliu></author>
+    <description>This uplifting book brings you a powerful message: No more tears. No more negative thoughts. No more heartbreaks. No more insecurities. Healing your heart’s wounds is the greatest gift you can give to your beautiful self.</description>
+    <publisher>Independently published</publisher>
+    <genre>Poem</genre>
+    <edition>1st Edition</edition>
+    <availability>0</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/71Eq55V2AvL._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>82</ID>
+    <title>Milk and Honey </title>
+    <price> 870 </price>
+    <author>Rupi Kaur</author>
+    <description>The book is divided into four chapters, and each chapter serves a different purpose. Deals with a different pain. Heals a different heartache. milk and honey takes readers through a journey of the most bitter moments in life and finds sweetness in them because there is sweetness everywhere if you are just willing to look.</description>
+    <publisher>Andrews McMeel Publishing</publisher>
+    <genre>Poem</genre>
+    <edition>1st Edition</edition>
+    <availability>3</availability>
+  </book>
+  <book>
+    <cover_url>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499791446i/35606560.jpg</cover_url>
+    <ID>83</ID>
+    <title>The Sun and Her Flowers: Rupi Kaur</title>
+    <price> 870 </price>
+    <author>Rupi Kaur</author>
+    <description>Divided into five chapters and illustrated by kaur, the sun and her flowers is a journey of wilting, falling, rooting, rising, and blooming. A celebration of love in all its forms. this is the recipe of life said my mother as she held me in her arms as i wept think of those flowers you plant in the garden each year they will teach you that people too must wilt fall root rise in order to bloom
+    </description>
+    <publisher>Andrews McMeel Publishing</publisher>
+    <genre>Poem</genre>
+    <edition>1st Edition</edition>
+    <availability>7</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/61YduVo81JL.jpg</cover_url>
+    <ID>84</ID>
+    <title>Home: poems to heal your heartbreak</title>
+    <price> 550 </price>
+    <author>Whitney Hanson</author>
+    <description>Resonant, raw, and vibrant, Home is a lyrical map to navigating heartbreak. Tracing the stages of healing - from the despair that comes with the end of a relationship to the eventual light and liberation that comes with time - the poems in Home provide comfort and solace, while revitalizing your soul - and helping you make peace with your bees.</description>
+    <publisher>Quercus</publisher>
+    <genre>Poem</genre>
+    <edition>1st Edition</edition>
+    <availability>8</availability>
+  </book>
+  <book>
+    <cover_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632325858l/58439983.jpg</cover_url>
+    <ID>85</ID>
+    <title>Serenity: Poems</title>
+    <price>780 </price>
+    <author>F.S. Yousaf </author>
+    <description>Soft spoken yet powerful, Serenity perfectly captures the constant battle of fear and courage that lives within us.
+      The seeds of Serenity were planted in F.S. Yousaf's last collection of poetry, Sincerely. Struck by inspiration and overwhelmed by the response of dedicated fans, Yousaf wanted to continue this journey in a new collection. While tales of longing, uncertainty, and loss flow through each poem, Yousaf artfully captures the eternal question of how to face pain with courage and quiet resilience
+    </description>
+    <publisher>Andrews McMeel Publishing</publisher>
+    <genre>Poem</genre>
+    <edition>1st Edition</edition>
+    <availability>15</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/31w3livBL9L.jpg</cover_url>
+    <ID>86</ID>
+    <title>The sun will rise and so will we</title>
+    <price>520 </price>
+    <author>Jennae Cecelia</author>
+    <description>The Sun Will Rise and So Will We, is a poetry book filled with all things sunshine without ignoring the storms. Pain is real. Anxiety is real. Depression is real. Hardships in life are real. I hope when you pick up this book you feel heard and comforted. Even if it doesn't seem like it right now, your sun will rise once again, and I am cheering you on for that moment. What will it feel like, when your sun rises?</description>
+    <publisher>Independently published</publisher>
+    <genre>Poem</genre>
+    <edition>1st Edition</edition>
+    <availability>9</availability>
+  </book>
+  <book>
+    <cover_url>https://images-eu.ssl-images-amazon.com/images/I/51hgIMZWX2L._AC_UL210_SR210,210_.jpg></cover_url>
+    <ID>88</ID>
+    <title>To Be Honest </title>
+    <price> 850 </price>
+    <author>Nelle Starling </author>
+    <description>To Be Honest is a collection of poetry that celebrates all of the different feelings and emotions we meet in our lifetime. Inside you will discover the truth about love, heartbreak, healing, forgiveness, change, grief and happiness. These words were meant to find you.The truth is, I don't talk about it anymore, but that doesn't mean it stopped hurting.</description>
+    <publisher>Independently published</publisher>
+    <genre>Poem</genre>
+    <edition>1st Edition</edition>
+    <availability>19</availability>
+  </book>
+  <book>
+    <cover_url>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwujnDZoirgzFcSz0oQdl1SdvSQs_1I_w2TOQCGN_8NQ5TLPsWDckPc1G5mAfXHOqaJIyE1x138S7UpJZgplgJst6YyHmfaJgcPoJvoInP0JbMDrMhvQKIlCOl-GEe80Np0aKxvu9iDXAlT6B_CDxizgJDeNceqRIFHRU47AAiwU6fr3YOf2ndrENS3RE/s2560/81dDwAzxtrL.jpg</cover_url>
+    <ID>91</ID>
+    <title>Becoming: The Journey of a First Lady</title>
+    <price> 592.47</price>
+    <author>Michelle Obama</author>
+    <description>: In this captivating memoir, Michelle Obama, the former First Lady of the United States, takes readers on a deeply personal and inspiring journey. From her childhood on the South Side of Chicago to her years in the White House, Obama shares her triumphs, challenges, and the experiences that shaped her into the influential figure she is today.</description>
+    <publisher>Crown</publisher>
+    <genre>Biography</genre>
+    <edition>1st Edition</edition>
+    <availability>18</availability>
+  </book>
+  <book>
+    <cover_url>https://temple-publications.com/wp-content/uploads/2022/07/453.jpg</cover_url>
+    <ID>92</ID>
+    <title>The Diary of a Young Girl</title>
+    <price> 236.37</price>
+    <author>Anne Frank</author>
+    <description>Anne Frank's diary has become an iconic testament to the strength of the human spirit. This poignant biography reveals the thoughts, fears, and dreams of a young Jewish girl hiding from the Nazis during World War II. Her writing captures the raw emotions of adolescence and offers a harrowing account of life during one of history's darkest periods.</description>
+    <publisher>Colossal Publications</publisher>
+    <genre>Biography</genre>
+    <edition>4th Edition</edition>
+    <availability>5</availability>
+  </book>
+  <book>
+    <cover_url>https://upload.wikimedia.org/wikipedia/en/5/5f/The_Immortal_Life_Henrietta_Lacks_%28cover%29.jpg</cover_url>
+    <ID>94</ID>
+    <title>The Immortal Life of Henrietta Lacks</title>
+    <price> 685</price>
+    <author>Rebecca Skloot</author>
+    <description>Rebecca Skloot weaves a remarkable story in this biographical masterpiece. The book delves into the life of Henrietta Lacks, an African American woman whose cells were taken without her consent and became instrumental in countless medical breakthroughs. Skloot explores the ethical implications of scientific advancements and the impact they had on Lacks and her family.</description>
+    <publisher>Crown</publisher>
+    <genre>Biography</genre>
+    <edition>2nd Edition</edition>
+    <availability>3</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/81kQBRCqt-L._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>96</ID>
+    <title>The Autobiography of Malcolm X</title>
+    <price>410</price>
+    <author>Malcolm X and Alex Haley</author>
+    <description>Malcolm X's autobiography is a powerful account of his journey from a troubled youth to one of the most influential civil rights activists of the 20th century. Co-authored with Alex Haley, this book provides valuable insights into Malcolm X's transformation, his advocacy for black empowerment, and his unwavering commitment to social justice.</description>
+    <publisher>Ballantine Books</publisher>
+    <genre>Biography</genre>
+    <edition>2nd Edition</edition>
+    <availability>4</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/91S4DE6x+TL._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>97</ID>
+    <title>Unbroken: A World War II Story of Survival, Resilience, and Redemption</title>
+    <price> 410</price>
+    <author>Laura Hillenbrand</author>
+    <description>In this gripping biography, Laura Hillenbrand recounts the extraordinary life of Louis Zamperini, an Olympic runner turned World War II bombardier. From surviving a plane crash to enduring brutal conditions as a prisoner of war, Zamperini's story of resilience and redemption will leave readers in awe of the human spirit.</description>
+    <publisher>Random House</publisher>
+    <genre>Biography</genre>
+    <edition>2nd Edition</edition>
+    <availability>5</availability>
+  </book>
+  <book>
+    <cover_url>https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458.jpg</cover_url>
+    <ID>101</ID>
+    <title>Dune</title>
+    <price> 453</price>
+    <author>Frank Herbert</author>
+    <description>Set in a distant future, "Dune" takes readers on an epic journey to the desert planet Arrakis. Filled with political intrigue, interstellar conflict, and mystical elements, this science fiction masterpiece follows the young Paul Atreides as he navigates treacherous landscapes and discovers his destiny as a prophetic figure.</description>
+    <publisher>Penguin Group</publisher>
+    <genre>Sci-Fic/Fantasy</genre>
+    <edition>3rd Edition</edition>
+    <availability>18</availability>
+  </book>
+  <book>
+    <cover_url>https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Ender%27s_game_cover_ISBN_0312932081.jpg/220px-Ender%27s_game_cover_ISBN_0312932081.jpg</cover_url>
+    <ID>102</ID>
+    <title>Ender's Game</title>
+    <price> 616</price>
+    <author>Orson Scott Card</author>
+    <description>In a world threatened by an alien species, humanity turns to child prodigies for salvation. "Ender's Game" follows Andrew "Ender" Wiggin as he undergoes intense military training in a battle school, preparing for a war that will determine the fate of humanity. This science fiction novel explores themes of warfare, morality, and the complexity of human nature.</description>
+    <publisher>Macmillan</publisher>
+    <genre>Sci-Fic/Fantasy</genre>
+    <edition>2nd Edition</edition>
+    <availability>10</availability>
+  </book>
+  <book>
+    <cover_url>https://i.ebayimg.com/images/g/HW4AAOSwYDZgjoaO/s-l400.jpg</cover_url>
+    <ID>103</ID>
+    <title>The Hobbit</title>
+    <price> 453</price>
+    <author>J.R.R. Tolkien</author>
+    <description>"The Hobbit" is a beloved fantasy classic that introduces readers to the enchanting world of Middle-earth. Bilbo Baggins, a reluctant hobbit, embarks on an unexpected adventure with a group of dwarves and the wizard Gandalf. This tale of treasure, dragons, and personal growth sets the stage for the monumental events of "The Lord of the Rings."</description>
+    <publisher>Harper Collins</publisher>
+    <genre>Sci-Fic/Fantasy</genre>
+    <edition>3rd Edition</edition>
+    <availability>15</availability>
+  </book>
+  <book>
+    <cover_url>https://toughguybookclub.com/storage/app/uploads/public/5ed/b5d/64b/5edb5d64b23ac080895835.jpg</cover_url>
+    <ID>104</ID>
+    <title>Neuromancer</title>
+    <price> 408</price>
+    <author>William Gibson</author>
+    <description>Regarded as a groundbreaking novel in the cyberpunk genre, "Neuromancer" follows the story of Case, a washed-up hacker who is given a second chance to enter the virtual world known as the Matrix. Filled with high-tech gadgets, artificial intelligence, and a dystopian society, this science fiction masterpiece explores the blurred boundaries between humanity and technology.</description>
+    <publisher>Penguin Group</publisher>
+    <genre>Sci-Fic/Fantasy</genre>
+    <edition>1st Edition</edition>
+    <availability>5</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/81oqdz4hkeL._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>105</ID>
+    <title>A Wrinkle in Time</title>
+    <price> 324</price>
+    <author>Madeleine L'Engle</author>
+    <description>Meg Murry, her brother Charles Wallace, and their friend Calvin embark on a time-traveling adventure in "A Wrinkle in Time." Guided by three mysterious beings, they journey through space to rescue Meg's father from the clutches of darkness. This imaginative and thought-provoking novel explores themes of love, courage, and the battle between good and evil.</description>
+    <publisher>Square Fish</publisher>
+    <genre>Sci-Fic/Fantasy</genre>
+    <edition>3rd Edition</edition>
+    <availability>16</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/41sIWKtP-4L.jpg</cover_url>
+    <ID>106</ID>
+    <title>Foundation</title>
+    <price>363</price>
+    <author>Isaac Asimov</author>
+    <description>In this visionary science fiction series, Isaac Asimov presents the epic tale of the Foundation, a group of scholars who seek to preserve knowledge in a crumbling galactic empire. As the empire falls, the Foundation's efforts to shape the future of humanity are met with challenges and unexpected twists. This series explores themes of sociology, politics, and the cyclical nature of history.</description>
+    <publisher>Random House Audio</publisher>
+    <genre>Sci-Fic/Fantasy</genre>
+    <edition>3rd Edition</edition>
+    <availability>3</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/614SwlZNtJL._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>107</ID>
+    <title>The Hunger Games</title>
+    <price> 669</price>
+    <author>Suzanne Collins</author>
+    <description>In a dystopian future, "The Hunger Games" depicts a society where children from different districts are forced to participate in a brutal televised fight to the death. Katniss Everdeen becomes the symbol of rebellion against the oppressive Capitol. This gripping trilogy explores themes of survival, social inequality, and the power of resistance.</description>
+    <publisher>Scholastic Audio</publisher>
+    <genre>Sci-Fic/Fantasy</genre>
+    <edition>3rd Edition</edition>
+    <availability>13</availability>
+  </book>
+  <book>
+    <cover_url>https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/HisDarkMaterials1stEdition.jpg/220px-HisDarkMaterials1stEdition.jpg</cover_url>
+    <ID>108</ID>
+    <title>His Dark Materials</title>
+    <price> 676</price>
+    <author>Philip Pullman</author>
+    <description>"His Dark Materials" is a captivating fantasy trilogy that follows the adventures of Lyra Belacqua as she journeys through parallel universes, encountering armored bears, witches, and other fantastical creatures. Pullman weaves together elements of physics, theology, and philosophy to create a rich and thought-provoking narrative.</description>
+    <publisher>Yearling</publisher>
+    <genre>Sci-Fic/Fantasy</genre>
+    <edition>3rd Edition</edition>
+    <availability>12</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/91pKXWK8h4L._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>111</ID>
+    <title>The Expectant Father: The Ultimate Guide for Dads-to-Be</title>
+    <price> 652</price>
+    <author>Armin A. Brott and Jennifer Ash</author>
+    <description>This comprehensive guide provides expectant fathers with insights into pregnancy, childbirth, and early fatherhood. It covers topics such as supporting the mother, preparing for the baby's arrival, and navigating the emotional journey of becoming a dad.</description>
+    <publisher>Abbeville Press</publisher>
+    <genre>Maternity/Babies</genre>
+    <edition>5th Edition</edition>
+    <availability>9</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/71sLXTW8ODL._AC_UF894,1000_QL80_.jpg</cover_url>
+    <ID>112</ID>
+    <title>Ina May's Guide to Childbirth</title>
+    <price> 725</price>
+    <author>Ina May Gaskin</author>
+    <description>Ina May Gaskin, a renowned midwife, shares empowering birth stories and practical advice for a positive childbirth experience. This book promotes natural childbirth and highlights the importance of a supportive birth environment.</description>
+    <publisher>Random House Publishing Group</publisher>
+    <genre>Maternity/Babies</genre>
+    <edition>3rd Edition</edition>
+    <availability>16</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/51Rnxe88QWL._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>113</ID>
+    <title>The Happiest Baby on the Block</title>
+    <price> 580</price>
+    <author>Harvey Karp</author>
+    <description>Dr. Harvey Karp presents effective techniques for soothing and calming babies, helping parents understand and meet their infants' needs. This book offers valuable insights into the "fourth trimester" and provides practical solutions for common challenges faced by new parents.</description>
+    <publisher>Novel House</publisher>
+    <genre>Maternity/Babies</genre>
+    <edition>2nd Edition</edition>
+    <availability>20</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/41kBIssTqlL._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>114</ID>
+    <title>Bringing Up Bébé: One American Mother Discovers the Wisdom of French Parenting</title>
+    <price> 648</price>
+    <author>Pamela Druckerman</author>
+    <description>In this insightful book, Pamela Druckerman explores the differences between French and American parenting approaches. She shares her personal experiences and discusses the French methods of raising well-behaved, independent, and happy children.</description>
+    <publisher>Penguin Books</publisher>
+    <genre>Maternity/Babies</genre>
+    <edition>2nd Edition</edition>
+    <availability>7</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/71MLozxtNTL._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>115</ID>
+    <title>The Whole-Brain Child: 12 Revolutionary Strategies to Nurture Your Child's Developing Mind</title>
+    <price> 590</price>
+    <author>Daniel J. Siegel and Mary Hartzell</author>
+    <description>This book explores the emotional aspects of parenting and emphasizes the importance of self-reflection and self-understanding. It helps parents develop a deeper understanding of their own experiences to enhance their relationships with their children.</description>
+    <publisher>Random House Publishing Group</publisher>
+    <genre>Maternity/Babies</genre>
+    <edition>3rd Edition</edition>
+    <availability>8</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/51fbYtRPLnL._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>116</ID>
+    <title>The Baby Book: Everything You Need to Know About Your Baby from Birth to Age Two</title>
+    <price> 1134</price>
+    <author>William Sears and Martha Sears</author>
+    <description>Written by pediatricians, this comprehensive guide covers various aspects of baby care, including feeding, sleep, development, and health. It provides evidence-based information and practical tips for parents during the first two years of their baby's life.</description>
+    <publisher>Little, Brown Spark</publisher>
+    <genre>Maternity/Babies</genre>
+    <edition>3rd Edition</edition>
+    <availability>9</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/81gFUIpo-TL._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>117</ID>
+    <title>Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool</title>
+    <price> 648</price>
+    <author>Emily Oster</author>
+    <description>Economist Emily Oster analyzes scientific research and presents data-driven insights into common parenting decisions. This book helps parents make informed choices about topics like breastfeeding, sleep training, and daycare, based on the available evidence.</description>
+    <publisher>Penguin Books</publisher>
+    <genre>Maternity/Babies</genre>
+    <edition>2nd Edition</edition>
+    <availability>5</availability>
+  </book>
+  <book>
+    <cover_url>https://m.media-amazon.com/images/I/81rjNv7gV7L._AC_UF1000,1000_QL80_.jpg</cover_url>
+    <ID>118</ID>
+    <title>The Fourth Trimester: A Postpartum Guide to Healing Your Body, Balancing Your Emotions, and Restoring Your Vitality</title>
+    <price> 635</price>
+    <author>Kimberly Ann Johnson</author>
+    <description>This book focuses on the postpartum period, offering guidance on physical recovery, emotional well-being, and creating a supportive environment. It provides practical advice and tools to help new mothers navigate the challenges and transitions of the first few months after childbirth.</description>
+    <publisher>Shambhala</publisher>
+    <genre>Maternity/Babies</genre>
+    <edition>2nd Edition</edition>
+    <availability>4</availability>
+  </book>
+</bookshop>

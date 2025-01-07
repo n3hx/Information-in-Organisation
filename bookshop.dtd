@@ -1,0 +1,33 @@
+<!ELEMENT bookshop (book*)> <!-- The booshop can have zero to many books in its store -->
+
+<!ELEMENT book (ID, title, price?, author+, description, publisher?, genre?, edition+, availability?, cover_url)>
+
+<!ELEMENT cover_url (#PCDATA)> <!-- cover_url is defined without URL -->
+
+<!ELEMENT ID (#PCDATA)> <!--ID is defined without qualifier, because it occurs exactly once within the "book" element-->
+
+<!ELEMENT title (#PCDATA)> <!--Title is defined without qualifier, because it occurs exactly once within the "book" element.-->
+
+<!ELEMENT price (#PCDATA)> <!-- The book may have 1 or zero price attached to it(e.g out of stock = zero) -->
+
+<!ELEMENT author (#PCDATA)> <!-- The book may have 1 to many autors -->
+
+<!ELEMENT description (#PCDATA)> <!--Description is defined without qualifier, because it occurs exactly once within the "book" element.-->
+
+<!ELEMENT publisher (#PCDATA)> <!-- The book may have 1 or zero publisher-->
+
+<!ELEMENT genre (#PCDATA)>  <!-- The book may have 1 or zero genre-->
+
+<!ELEMENT edition (#PCDATA)>  <!-- The book may have 1 to many edition-->
+
+<!ELEMENT availability (#PCDATA)>  <!-- The book may have 1 or zero availability-->
+
+
+
+
+
+
+
+
+
+

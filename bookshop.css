@@ -1,0 +1,136 @@
+body,
+html {
+    height: 100%;
+    font-family: "Inconsolata", sans-serif;
+    
+}
+
+.bookshop-header {
+    min-height: 70%;
+    background: url("hthttps://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/50/2018/11/hero.jpgtps://static.vecteezy.com/ti/gratis-vektor/p1/6686488-halloween-bakgrund-med-zombie-pa-kyrkogarden-vid-full-mane-vektorillustration-vector.jpg") no-repeat center center fixed;
+    background-color: rgba(0, 0, 0, 0.584);
+    background-blend-mode: multiply;
+    background-size: cover;
+}
+
+.bookshop-top,
+h4 {
+    font-family: "Poppins", sans-serif;
+}
+
+/* About Us section */
+.bookshop-section-break {
+    min-height: 350px;
+    background: url("https://images.saymedia-content.com/.image/t_share/MTk3NzM1NzIwMTY3Njc5Nzk0/calculate-the-capacity-of-a-bookshelf-or-bookcase.png") no-repeat center center fixed;
+    filter: grayscale(10%);
+    background-blend-mode: multiply;
+    background-size: cover;
+}
+
+/* Event section */
+.bookshop-event {
+    background-color: #f9f9f9;
+    padding: 80px 20px;
+    text-align: center;
+}
+
+/* Book Details section */
+.bookshop-details {
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 48px;
+    font-size: large;
+}
+
+/* Font size for small elements, like small text descriptions */
+.bookshop-small {
+    font-size: small;
+}
+
+/* Button styling with rounded corners, black border, and padding */
+.bookshop-button {
+    border-radius: 25px;
+    border: 2px solid #000;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #000;
+}
+
+/* Styling for the title text with black color and centered alignment */
+.bookshop-title {
+    color: rgb(29, 201, 236);
+    text-align: center;
+}
+
+/* Element with 100% width of its container */
+.bookshop-wide {
+    width: 100%;
+}
+
+/* Center-align the content inside the element */
+.bookshop-center {
+    text-align: center;
+}
+
+/* Group of elements displayed in a row with wrapping */
+.bookshop-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Column class to create a layout with four equal-width columns */
+.bookshop-col {
+    flex: 20%;
+}
+
+/* Add padding of 20px to an element */
+.bookshop-padding {
+    padding: 20px;
+}
+
+/* Add larger padding of 40px to an element */
+.bookshop-padding-large {
+    padding: 40px;
+}
+
+/* Add bottom margin of 20px to an element */
+.bookshop-margin-bottom {
+    margin-bottom: 20px;
+}
+
+/* Add Hover effect to the buttons in the navigation bar */
+.bookshop-button:hover {
+    background-color: #20b6e08e;
+}
+
+/* Make the navigation bar fixed on top */
+.bookshop-sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.bookshop-banner {
+    height: 100px; /* Set the height of the banner */
+    background-color: #f2f2f2; /* Set the background color of the banner */
+}
+
+/* Styling for the background color rectangle behind the navigation bar */
+.bookshop-background {
+    background-color: #f2f2f2;
+    padding: 10px ; 
+}
+
+/* Styling for the square background color */
+.bookshop-container {
+    background-color: #14040466;
+    padding: 10px; /* Adjust the padding as needed */
+    border-radius: 5px; /* Add border-radius to make it look like a square */
+}
